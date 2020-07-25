@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.3b7ecc91.chunk.js",
-    "main.js.map": "/static/js/main.3b7ecc91.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b627569f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b627569f.js.map",
-    "static/js/2.ebe65a63.chunk.js": "/static/js/2.ebe65a63.chunk.js",
-    "static/js/2.ebe65a63.chunk.js.map": "/static/js/2.ebe65a63.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1078f71a1752e3a0e13c77328f037c82.js": "/precache-manifest.1078f71a1752e3a0e13c77328f037c82.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ebe65a63.chunk.js.LICENSE.txt": "/static/js/2.ebe65a63.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/upwork-map-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/upwork-map-project/static/js/main.a0d11f77.chunk.js",
+    "main.js.map": "/upwork-map-project/static/js/main.a0d11f77.chunk.js.map",
+    "runtime-main.js": "/upwork-map-project/static/js/runtime-main.0a71ab98.js",
+    "runtime-main.js.map": "/upwork-map-project/static/js/runtime-main.0a71ab98.js.map",
+    "static/js/2.ebe65a63.chunk.js": "/upwork-map-project/static/js/2.ebe65a63.chunk.js",
+    "static/js/2.ebe65a63.chunk.js.map": "/upwork-map-project/static/js/2.ebe65a63.chunk.js.map",
+    "index.html": "/upwork-map-project/index.html",
+    "precache-manifest.e636f82620033b10e28fa99c3f5c92e5.js": "/upwork-map-project/precache-manifest.e636f82620033b10e28fa99c3f5c92e5.js",
+    "service-worker.js": "/upwork-map-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/upwork-map-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ebe65a63.chunk.js.LICENSE.txt": "/upwork-map-project/static/js/2.ebe65a63.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/upwork-map-project/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b627569f.js",
+    "static/js/runtime-main.0a71ab98.js",
     "static/js/2.ebe65a63.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3b7ecc91.chunk.js"
+    "static/js/main.a0d11f77.chunk.js"
   ]
 }
