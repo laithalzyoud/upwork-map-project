@@ -1,0 +1,579 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4727594999999,
+                    17.386106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHAVANI WINE SHOP",
+                "name": "BHAVANI WINE SHOP"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4834853,
+                    17.3810384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bagga.Wines",
+                "name": "Bagga.Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4667775,
+                    17.382717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bhawani Wines",
+                "name": "Bhawani Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4736614,
+                    17.388792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "S S Wines",
+                "name": "S S Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4831334,
+                    17.3850442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Citi Wines",
+                "name": "Citi Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4773895999999,
+                    17.37623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kuldeep Wines",
+                "name": "Kuldeep Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472541,
+                    17.351262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Vijaya Laxmi Wine Shop",
+                "name": "Vijaya Laxmi Wine Shop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.444405,
+                    17.398458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Vasu Wines",
+                "name": "Vasu Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4606378999999,
+                    17.3825941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jai Bhavani Wines",
+                "name": "Jai Bhavani Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4863499000001,
+                    17.3996767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Madhushala Wines",
+                "name": "Madhushala Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4279965000001,
+                    17.4132604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "LIQUOR BANK",
+                "name": "LIQUOR BANK"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4748870000001,
+                    17.400476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Durga Liquor India Private Limited",
+                "name": "Durga Liquor India Private Limited"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4834853,
+                    17.3810384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bagga.Wines",
+                "name": "Bagga.Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4529170000001,
+                    17.4358663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SS Liquor Mall",
+                "name": "SS Liquor Mall"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4382497,
+                    17.416468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Andhra Liquor Manufacturers",
+                "name": "Andhra Liquor Manufacturers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4497921,
+                    17.4109539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Wine Bar",
+                "name": "Wine Bar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.487923,
+                    17.341378
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Sairam Wine Mart",
+                "name": "Sri Sairam Wine Mart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4773895999999,
+                    17.37623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kuldeep Wines",
+                "name": "Kuldeep Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4535076,
+                    17.4357616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mallik Wines",
+                "name": "Mallik Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.5048816,
+                    17.3585622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Balaji Wines",
+                "name": "Balaji Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4549010000001,
+                    17.3890438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Kanaka Durga Wines",
+                "name": "Sri Kanaka Durga Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4607880999999,
+                    17.380562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Tulja Bhavani Wines & Bar & Restaurant",
+                "name": "Sri Tulja Bhavani Wines & Bar & Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4567691,
+                    17.3686488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sammakka Sarakka Wines",
+                "name": "Sammakka Sarakka Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4688827,
+                    17.3677321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Naina Davi Wine Shop",
+                "name": "Naina Davi Wine Shop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4618967,
+                    17.3823465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bavani wines",
+                "name": "Bavani wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4568747999999,
+                    17.3686201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sammaka Sarraka Wines",
+                "name": "Sammaka Sarraka Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.486671,
+                    17.385044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Oscar Wines",
+                "name": "Oscar Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4902397999999,
+                    17.3901768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MADHUSALA WINES",
+                "name": "MADHUSALA WINES"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4914547999999,
+                    17.3905646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KACHIGUDA WINES",
+                "name": "KACHIGUDA WINES"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4494665,
+                    17.3859652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Datta Wines",
+                "name": "Datta Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4497921,
+                    17.4109539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Wine Bar",
+                "name": "Wine Bar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.437106,
+                    17.38398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jai Laxmi Narsimha Wines",
+                "name": "Jai Laxmi Narsimha Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4834853,
+                    17.3810384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bagga.Wines",
+                "name": "Bagga.Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4612297,
+                    17.4137856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Green Wines",
+                "name": "Green Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4736614,
+                    17.388792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "S S Wines",
+                "name": "S S Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4863499000001,
+                    17.3996767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Madhushala Wines",
+                "name": "Madhushala Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4279965000001,
+                    17.4132604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "LIQUOR BANK",
+                "name": "LIQUOR BANK"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.486671,
+                    17.385044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mcdowell & Co Limited",
+                "name": "Mcdowell & Co Limited"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4748870000001,
+                    17.400476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Durga Liquor India Private Limited",
+                "name": "Durga Liquor India Private Limited"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4820814,
+                    17.4039284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kuldeep Wines",
+                "name": "Kuldeep Wines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4706148,
+                    17.3748704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tulja Wine Shop",
+                "name": "Tulja Wine Shop"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,1083 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4732655,
+                    17.3758486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ashuu Toys & Novelties",
+                "name": "Ashuu Toys & Novelties"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473219,
+                    17.375677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mahaveer Enterprises",
+                "name": "Mahaveer Enterprises"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472841,
+                    17.375253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Balaji Toys And Agencies",
+                "name": "Balaji Toys And Agencies"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4733951000001,
+                    17.375819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bharat Fancy Store",
+                "name": "Bharat Fancy Store"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4731897,
+                    17.3758274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SK Marketing",
+                "name": "SK Marketing"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4718124,
+                    17.3766578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "P. Rameshwar Toys",
+                "name": "P. Rameshwar Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472786,
+                    17.3753534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bombay Agencies",
+                "name": "Bombay Agencies"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473063,
+                    17.378466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rajput Toys",
+                "name": "Rajput Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4738047999999,
+                    17.3779148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "N. M Toys House",
+                "name": "N. M Toys House"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.468867,
+                    17.373275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jaju She and Kids",
+                "name": "Jaju She and Kids"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472267,
+                    17.375896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rohan Enterprises & Baby Produts",
+                "name": "Rohan Enterprises & Baby Produts"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472904,
+                    17.374782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rajput Baby Shop.",
+                "name": "Rajput Baby Shop."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4737372,
+                    17.3769024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kuberaa Enterprises",
+                "name": "Kuberaa Enterprises"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473532,
+                    17.376041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Famous Baby Store",
+                "name": "Famous Baby Store"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472477,
+                    17.377467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rakesh Marketing",
+                "name": "Rakesh Marketing"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4722196,
+                    17.3760057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Baby Charm Wholesalers",
+                "name": "Baby Charm Wholesalers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4732186,
+                    17.3756771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jain Caps MFG & Wholesale",
+                "name": "Jain Caps MFG & Wholesale"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473219,
+                    17.375677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "B For Baby",
+                "name": "B For Baby"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.468059,
+                    17.376987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Baby Kids",
+                "name": "Baby Kids"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4704306,
+                    17.374822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Vinayaka Kids Wear",
+                "name": "Vinayaka Kids Wear"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4728566,
+                    17.3750706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jasraj & Sons",
+                "name": "Jasraj & Sons"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.471888,
+                    17.375257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sripal Trading Co",
+                "name": "Sripal Trading Co"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472593,
+                    17.376503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "H.K.G.N Air Toys Wholesalers",
+                "name": "H.K.G.N Air Toys Wholesalers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.471873,
+                    17.375846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "New Hello Baby Wholesalers",
+                "name": "New Hello Baby Wholesalers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.475148,
+                    17.376222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Sai Toys",
+                "name": "Sri Sai Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4730622,
+                    17.3770512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KMC TOYS & NOVELTIES. Whole sale dealers in toys & fancy items",
+                "name": "KMC TOYS & NOVELTIES. Whole sale dealers in toys & fancy items"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4735051,
+                    17.3757455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rides And Babies",
+                "name": "Rides And Babies"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473063,
+                    17.378466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prabhu Toys & Sports",
+                "name": "Prabhu Toys & Sports"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4720325999999,
+                    17.3758798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prabhu toys",
+                "name": "Prabhu toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472219,
+                    17.376181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Suresh Enterprises",
+                "name": "Suresh Enterprises"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4719183,
+                    17.3761051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sree Rajendra Toys (Bheru Jain)",
+                "name": "Sree Rajendra Toys (Bheru Jain)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4730790999999,
+                    17.3753854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "NEW S.S TRADER",
+                "name": "NEW S.S TRADER"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4712231,
+                    17.3741887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Raj Ratan Trading Co.",
+                "name": "Raj Ratan Trading Co."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4721648,
+                    17.3751065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Calcutta Toys",
+                "name": "Sri Calcutta Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4733552,
+                    17.375676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Runicha Toys",
+                "name": "Runicha Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4732186,
+                    17.3756771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A.R Collection Wholesalers",
+                "name": "A.R Collection Wholesalers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.470224,
+                    17.373881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prerna Novelties",
+                "name": "Prerna Novelties"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4738110000001,
+                    17.374393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Ambica Trading Co.",
+                "name": "Sri Ambica Trading Co."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4715057,
+                    17.3765183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Priyanka Toys Wholesale & Retail",
+                "name": "Priyanka Toys Wholesale & Retail"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473063,
+                    17.37701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kwality Traders",
+                "name": "Kwality Traders"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472773,
+                    17.37688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "M Toys",
+                "name": "M Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4723084,
+                    17.3758289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "R.K. Novelty",
+                "name": "R.K. Novelty"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4730632000001,
+                    17.3770101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "P J Novelty",
+                "name": "P J Novelty"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4728514999999,
+                    17.3782915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "P. S. Novelty",
+                "name": "P. S. Novelty"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4741289999999,
+                    17.376269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pawan Toy's",
+                "name": "Pawan Toy's"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47079,
+                    17.3738818
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Praveen Marketing Wholesalers",
+                "name": "Praveen Marketing Wholesalers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472219,
+                    17.376181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rajguru Toys",
+                "name": "Rajguru Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4737736,
+                    17.3734121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Vardhaman Agency",
+                "name": "Vardhaman Agency"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4741443,
+                    17.3750087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Aruna Sales Corporation",
+                "name": "Aruna Sales Corporation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473149,
+                    17.376964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prakash Toys",
+                "name": "Prakash Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4712982,
+                    17.3741887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Paxal Toys Wholesale & Retail",
+                "name": "Paxal Toys Wholesale & Retail"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4713053,
+                    17.3750146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Padam Plastic House & General Items",
+                "name": "Padam Plastic House & General Items"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472576,
+                    17.376245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MARUTHI TOYS",
+                "name": "MARUTHI TOYS"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4729881,
+                    17.3770101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Puppy Toys",
+                "name": "Puppy Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473656,
+                    17.3756506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prem Deep Novelties",
+                "name": "Prem Deep Novelties"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4724628,
+                    17.3748192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Yatindr Trading Co & General Goods",
+                "name": "Yatindr Trading Co & General Goods"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4732802,
+                    17.3756312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "S R Plastic",
+                "name": "S R Plastic"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4736985,
+                    17.3734275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Amit Traders",
+                "name": "Amit Traders"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4737991,
+                    17.3734236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Deepak Toys",
+                "name": "Deepak Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4726413999999,
+                    17.3779181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Vijay Novelty",
+                "name": "Vijay Novelty"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4721724,
+                    17.3759652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ramdev Gifts And Novelties",
+                "name": "Ramdev Gifts And Novelties"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4715053,
+                    17.3755167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "K.M.C Toys & Novelties",
+                "name": "K.M.C Toys & Novelties"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4725369,
+                    17.3763425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pradeep Toys",
+                "name": "Pradeep Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4716675,
+                    17.3759479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Toy World",
+                "name": "Toy World"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4721814,
+                    17.3759124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tirumala Toys",
+                "name": "Tirumala Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4714556,
+                    17.3767459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mohit Toys Villa",
+                "name": "Mohit Toys Villa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4731278,
+                    17.3756796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Khader Soft Toys",
+                "name": "Khader Soft Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473122,
+                    17.3757616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Parvati Toys Centre",
+                "name": "Parvati Toys Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4738213000001,
+                    17.3769976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Shree toys",
+                "name": "Shree toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.471227,
+                    17.3761333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Venkateshwara Sports & Toys",
+                "name": "Sri Venkateshwara Sports & Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4717456,
+                    17.3757582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Raj Laxmi Sports And Toys",
+                "name": "Raj Laxmi Sports And Toys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4721574,
+                    17.376997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ramdev Sports",
+                "name": "Ramdev Sports"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4730364,
+                    17.3769615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Oswal Sports",
+                "name": "Oswal Sports"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.473797,
+                    17.378429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ganesh Sports",
+                "name": "Ganesh Sports"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4749420000001,
+                    17.377907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kushal Sports Shop",
+                "name": "Kushal Sports Shop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4732401,
+                    17.3757462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Rocky Sports",
+                "name": "Rocky Sports"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4728082,
+                    17.3756757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sri Padmavati Agencies",
+                "name": "Sri Padmavati Agencies"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

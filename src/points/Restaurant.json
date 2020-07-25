@@ -1,0 +1,285 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4755021,
+                    17.3688107
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hotel Shadab",
+                "name": "Hotel Shadab"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4769287,
+                    17.3879259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grand Hotel And Restaurant",
+                "name": "Grand Hotel And Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4629079,
+                    17.3907245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Alhamdulillah Hotel",
+                "name": "Alhamdulillah Hotel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4610084,
+                    17.3783782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Paya Cafe Yusufia",
+                "name": "Paya Cafe Yusufia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4768888,
+                    17.36953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hotel Nayaab",
+                "name": "Hotel Nayaab"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4802589999999,
+                    17.38241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Swathi Mess & Dhaba",
+                "name": "Swathi Mess & Dhaba"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4714727,
+                    17.3632275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sai Kiran Foods",
+                "name": "Sai Kiran Foods"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472381,
+                    17.389763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Al-Arabian Shawarma",
+                "name": "Al-Arabian Shawarma"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4742957,
+                    17.3613088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "F.S.Cafe Restaurant",
+                "name": "F.S.Cafe Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.472275,
+                    17.3868988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Shezan Restaurant",
+                "name": "Shezan Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.468931,
+                    17.3731274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dhannu Tiffin Center",
+                "name": "Dhannu Tiffin Center"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4768888,
+                    17.36953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hotel Nayaab",
+                "name": "Hotel Nayaab"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4765743,
+                    17.3763419
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Prahalad Tiffin Point",
+                "name": "Prahalad Tiffin Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4755021,
+                    17.3688107
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hotel Shadab",
+                "name": "Hotel Shadab"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4700379999999,
+                    17.376314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Santosh Dhaba",
+                "name": "Santosh Dhaba"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4713661999999,
+                    17.3685073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Laxmi Restaurant",
+                "name": "Laxmi Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.477691,
+                    17.375849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sree Raghavendra Darshini Pur Veg",
+                "name": "Sree Raghavendra Darshini Pur Veg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4760046,
+                    17.3745251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "New Grand Hotel & Restaurant",
+                "name": "New Grand Hotel & Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4752243,
+                    17.3767428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kasturi Restaurant",
+                "name": "Kasturi Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.468969,
+                    17.375033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Saini Fast food Restaurant",
+                "name": "Saini Fast food Restaurant"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
