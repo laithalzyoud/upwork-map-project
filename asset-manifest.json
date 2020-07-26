@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/upwork-map-project/static/css/main.5f361e03.chunk.css",
-    "main.js": "/upwork-map-project/static/js/main.36a264a0.chunk.js",
-    "main.js.map": "/upwork-map-project/static/js/main.36a264a0.chunk.js.map",
+    "main.js": "/upwork-map-project/static/js/main.0b7db7ca.chunk.js",
+    "main.js.map": "/upwork-map-project/static/js/main.0b7db7ca.chunk.js.map",
     "runtime-main.js": "/upwork-map-project/static/js/runtime-main.0a71ab98.js",
     "runtime-main.js.map": "/upwork-map-project/static/js/runtime-main.0a71ab98.js.map",
     "static/css/2.b4a16772.chunk.css": "/upwork-map-project/static/css/2.b4a16772.chunk.css",
     "static/js/2.1f6560de.chunk.js": "/upwork-map-project/static/js/2.1f6560de.chunk.js",
     "static/js/2.1f6560de.chunk.js.map": "/upwork-map-project/static/js/2.1f6560de.chunk.js.map",
     "index.html": "/upwork-map-project/index.html",
-    "precache-manifest.29678a49ede679f945d7b7010333f3f0.js": "/upwork-map-project/precache-manifest.29678a49ede679f945d7b7010333f3f0.js",
+    "precache-manifest.dd119ca24fc0ab9a7d549b22e8463a81.js": "/upwork-map-project/precache-manifest.dd119ca24fc0ab9a7d549b22e8463a81.js",
     "service-worker.js": "/upwork-map-project/service-worker.js",
     "static/css/2.b4a16772.chunk.css.map": "/upwork-map-project/static/css/2.b4a16772.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/upwork-map-project/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b4a16772.chunk.css",
     "static/js/2.1f6560de.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.36a264a0.chunk.js"
+    "static/js/main.0b7db7ca.chunk.js"
   ]
 }
