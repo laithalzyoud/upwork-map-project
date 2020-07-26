@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import styled from 'styled-components';
 import './App.css';
 /** Mapbox React bindings */
 import ReactMapboxGl, {
@@ -7,7 +7,8 @@ import ReactMapboxGl, {
   ScaleControl,
   ZoomControl,
   RotationControl,
-  GeoJSONLayer,
+  Layer,
+  Feature
 } from 'react-mapbox-gl';
 
 import PointGroups from './points/points';
@@ -38,7 +39,7 @@ const mapStyle = {
   "sources": {
   "raster-tiles": {
   "type": "raster",
-  "tiles": [ "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"],
+  "tiles": ["https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png"],
   "tileSize": 256
   }
   },
@@ -51,79 +52,87 @@ const mapStyle = {
   }]
 }
 
-var bounds = [
-  [78.461681, 17.370974], // Southwest coordinates
-  [78.478309, 17.381066] // Northeast coordinates
-  ];
-
+const StyledPopup = styled.div`
+background: white;
+color: #3f618c;
+font-weight: 400;
+padding: 5px;
+border-radius: 2px;
+`;
 class App extends React.Component {
 
   constructor(props) {
       super(props);
       this.state = {
-        showPopup: false
+        center: [78.4727594999999, 17.386106],
+        zoom: [18],
+        circle: undefined,
+        bounds:[
+          [78.461681, 17.370974], // Southwest coordinates
+          [78.478309, 17.381066] // Northeast coordinates
+          ]
       };
       this.mapRef = React.createRef();
       this.onToggleHover = this.onToggleHover.bind(this);
   }
-  /**
-   * This method is triggered when the user hovers the mouse over an image stream marker. The mouse cursor becomes a pointer. 
-   * @param {*} cursor  Value of the cursor style. (e.g. pointer or default)
-   * @public
-   */
-  onToggleHover(event,cursor) {
+
+  onToggleHover(cursor,circle) {
     this.mapRef.getCanvas().style.cursor = cursor;
+    this.setState({circle})
   }
 
-  circleClicked(e) {
-    console.log(e)
-    this.setState({showPopup:!this.state.showPopup})
-  }
   mapLoaded(el) {
     this.mapRef = el;
   }
+
+
   render() {
 
-    const renderedPointGroups = PointGroups.map((group,key) =>
-        <GeoJSONLayer
-        id={'geojson-'+key}
-        data={group}
-        circleLayout={circleLayout}
-        circlePaint={circlePaint}
-        circleOnMouseEnter={e => this.onToggleHover(e,'pointer')}
-        circleOnMouseLeave={e => this.onToggleHover(e,'')}
-        circleOnClick={e => this.circleClicked(e)}
-    />
-    )
+    const {center, zoom, circle,bounds} = this.state;
+
+    const renderedFeatures = PointGroups.map((group,key) => 
+      <Layer key = {key} type="circle" id={"circles-"+key} layout={circleLayout} paint={circlePaint}>
+      {group.features.map((feature,featureKey) =>
+        <Feature
+        key={featureKey}
+        onMouseEnter={this.onToggleHover.bind(this, 'pointer',feature)}
+        onMouseLeave={this.onToggleHover.bind(this, '',undefined)}
+        coordinates={feature.geometry.coordinates}
+        properties={{"colorProp":"c"+key}}
+      />
+      )}    
+      </Layer>
+      )
+
     return (
       <div className="App">
         <Map
-          ref={this.mapRef}
           style={mapStyle}
           containerStyle={{
               height: '100vh',
               width: '100vw',
               flex: 1,
           }}
-          center={[78.4727594999999, 17.386106]}
-          zoom={[18]}
+          center={center}
+          zoom={zoom}
           onStyleLoad={el => this.mapLoaded(el)}
-
-          // maxBounds={bounds}
+          maxBounds={bounds}
         >
 
-          {renderedPointGroups}
           <ScaleControl />
           <ZoomControl/>
           <RotationControl style={{ marginTop: 10 }} />
-
-          {this.state.showPopup ? <Popup
-            coordinates={this.state.popupCoord}
-            offset={{
-              'bottom-left': [12, -38],  'bottom': [0, -38], 'bottom-right': [-12, -38]
-            }}>
-            <h1>BHAVANI WINE SHOP</h1>
-          </Popup> : null}
+          {renderedFeatures}
+          {circle && (
+          <Popup coordinates={circle.geometry.coordinates}>
+            <StyledPopup>
+              <div>{circle.properties.name}</div>
+              <div>
+                {circle.properties.description}
+              </div>
+            </StyledPopup>
+          </Popup>
+        )}
         </Map>
       </div>
     );  
