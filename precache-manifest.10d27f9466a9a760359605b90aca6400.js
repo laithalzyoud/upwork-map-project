@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b52fb58a6c897cad059d712f5653b358",
+    "revision": "271f0e6146a7d13f9f6ea0ce06c1626f",
     "url": "/upwork-map-project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/upwork-map-project/static/css/2.b4a16772.chunk.css"
   },
   {
-    "revision": "0a22b2cc11d786d80faa",
+    "revision": "5b7ed672637615f5f226",
     "url": "/upwork-map-project/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/upwork-map-project/static/js/2.1f6560de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a22b2cc11d786d80faa",
-    "url": "/upwork-map-project/static/js/main.0b7db7ca.chunk.js"
+    "revision": "5b7ed672637615f5f226",
+    "url": "/upwork-map-project/static/js/main.92665ab0.chunk.js"
   },
   {
     "revision": "f1890d40fa3ea758c0f6",
