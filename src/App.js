@@ -39,7 +39,7 @@ const mapStyle = {
   "sources": {
   "raster-tiles": {
   "type": "raster",
-  "tiles": ["https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png"],
+  "tiles": ["https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"],
   "tileSize": 256
   }
   },
