@@ -47,8 +47,8 @@ const mapStyle = {
   "id": "simple-tiles",
   "type": "raster",
   "source": "raster-tiles",
-  "minzoom": 17,
-  "maxzoom": 19
+  "minzoom": 0,
+  "maxzoom": 22
   }]
 }
 
