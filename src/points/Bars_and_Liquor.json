@@ -11,6 +11,7 @@
             "properties": {
                 "description": "BHAVANI WINE SHOP",
                 "name": "BHAVANI WINE SHOP"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -25,6 +26,7 @@
             "properties": {
                 "description": "Bagga.Wines",
                 "name": "Bagga.Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -39,6 +41,7 @@
             "properties": {
                 "description": "Bhawani Wines",
                 "name": "Bhawani Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -53,6 +56,7 @@
             "properties": {
                 "description": "S S Wines",
                 "name": "S S Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -67,6 +71,7 @@
             "properties": {
                 "description": "Citi Wines",
                 "name": "Citi Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -81,6 +86,7 @@
             "properties": {
                 "description": "Kuldeep Wines",
                 "name": "Kuldeep Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -95,6 +101,7 @@
             "properties": {
                 "description": "Vijaya Laxmi Wine Shop",
                 "name": "Vijaya Laxmi Wine Shop"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -109,6 +116,7 @@
             "properties": {
                 "description": "Vasu Wines",
                 "name": "Vasu Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -123,6 +131,7 @@
             "properties": {
                 "description": "Jai Bhavani Wines",
                 "name": "Jai Bhavani Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -137,6 +146,7 @@
             "properties": {
                 "description": "Madhushala Wines",
                 "name": "Madhushala Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -151,6 +161,7 @@
             "properties": {
                 "description": "LIQUOR BANK",
                 "name": "LIQUOR BANK"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -165,6 +176,7 @@
             "properties": {
                 "description": "Durga Liquor India Private Limited",
                 "name": "Durga Liquor India Private Limited"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -179,6 +191,7 @@
             "properties": {
                 "description": "Bagga.Wines",
                 "name": "Bagga.Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -193,6 +206,7 @@
             "properties": {
                 "description": "SS Liquor Mall",
                 "name": "SS Liquor Mall"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -207,6 +221,7 @@
             "properties": {
                 "description": "Andhra Liquor Manufacturers",
                 "name": "Andhra Liquor Manufacturers"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -221,6 +236,7 @@
             "properties": {
                 "description": "Wine Bar",
                 "name": "Wine Bar"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -235,6 +251,7 @@
             "properties": {
                 "description": "Sri Sairam Wine Mart",
                 "name": "Sri Sairam Wine Mart"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -249,6 +266,7 @@
             "properties": {
                 "description": "Kuldeep Wines",
                 "name": "Kuldeep Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -263,6 +281,7 @@
             "properties": {
                 "description": "Mallik Wines",
                 "name": "Mallik Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -277,6 +296,7 @@
             "properties": {
                 "description": "Balaji Wines",
                 "name": "Balaji Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -291,6 +311,7 @@
             "properties": {
                 "description": "Sri Kanaka Durga Wines",
                 "name": "Sri Kanaka Durga Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -305,6 +326,7 @@
             "properties": {
                 "description": "Sri Tulja Bhavani Wines & Bar & Restaurant",
                 "name": "Sri Tulja Bhavani Wines & Bar & Restaurant"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -319,6 +341,7 @@
             "properties": {
                 "description": "Sammakka Sarakka Wines",
                 "name": "Sammakka Sarakka Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -333,6 +356,7 @@
             "properties": {
                 "description": "Naina Davi Wine Shop",
                 "name": "Naina Davi Wine Shop"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -347,6 +371,7 @@
             "properties": {
                 "description": "Bavani wines",
                 "name": "Bavani wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -361,6 +386,7 @@
             "properties": {
                 "description": "Sammaka Sarraka Wines",
                 "name": "Sammaka Sarraka Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -375,6 +401,7 @@
             "properties": {
                 "description": "Oscar Wines",
                 "name": "Oscar Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -389,6 +416,7 @@
             "properties": {
                 "description": "MADHUSALA WINES",
                 "name": "MADHUSALA WINES"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -403,6 +431,7 @@
             "properties": {
                 "description": "KACHIGUDA WINES",
                 "name": "KACHIGUDA WINES"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -417,6 +446,7 @@
             "properties": {
                 "description": "Datta Wines",
                 "name": "Datta Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -431,6 +461,7 @@
             "properties": {
                 "description": "Wine Bar",
                 "name": "Wine Bar"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -445,6 +476,7 @@
             "properties": {
                 "description": "Jai Laxmi Narsimha Wines",
                 "name": "Jai Laxmi Narsimha Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -459,6 +491,7 @@
             "properties": {
                 "description": "Bagga.Wines",
                 "name": "Bagga.Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -473,6 +506,7 @@
             "properties": {
                 "description": "Green Wines",
                 "name": "Green Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -487,6 +521,7 @@
             "properties": {
                 "description": "S S Wines",
                 "name": "S S Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -501,6 +536,7 @@
             "properties": {
                 "description": "Madhushala Wines",
                 "name": "Madhushala Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -515,6 +551,7 @@
             "properties": {
                 "description": "LIQUOR BANK",
                 "name": "LIQUOR BANK"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -529,6 +566,7 @@
             "properties": {
                 "description": "Mcdowell & Co Limited",
                 "name": "Mcdowell & Co Limited"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -543,6 +581,7 @@
             "properties": {
                 "description": "Durga Liquor India Private Limited",
                 "name": "Durga Liquor India Private Limited"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -557,6 +596,7 @@
             "properties": {
                 "description": "Kuldeep Wines",
                 "name": "Kuldeep Wines"
+                ,"category": "bars"
             },
             "type": "Feature"
         },
@@ -571,6 +611,7 @@
             "properties": {
                 "description": "Tulja Wine Shop",
                 "name": "Tulja Wine Shop"
+                ,"category": "bars"
             },
             "type": "Feature"
         }

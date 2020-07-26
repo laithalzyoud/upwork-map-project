@@ -8,7 +8,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Hotel Shadab",
                 "name": "Hotel Shadab"
             },
@@ -22,7 +22,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Grand Hotel And Restaurant",
                 "name": "Grand Hotel And Restaurant"
             },
@@ -36,7 +36,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Alhamdulillah Hotel",
                 "name": "Alhamdulillah Hotel"
             },
@@ -50,7 +50,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Paya Cafe Yusufia",
                 "name": "Paya Cafe Yusufia"
             },
@@ -64,7 +64,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Hotel Nayaab",
                 "name": "Hotel Nayaab"
             },
@@ -78,7 +78,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Swathi Mess & Dhaba",
                 "name": "Swathi Mess & Dhaba"
             },
@@ -92,7 +92,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Sai Kiran Foods",
                 "name": "Sai Kiran Foods"
             },
@@ -106,7 +106,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Al-Arabian Shawarma",
                 "name": "Al-Arabian Shawarma"
             },
@@ -120,7 +120,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "F.S.Cafe Restaurant",
                 "name": "F.S.Cafe Restaurant"
             },
@@ -134,7 +134,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Shezan Restaurant",
                 "name": "Shezan Restaurant"
             },
@@ -148,7 +148,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Dhannu Tiffin Center",
                 "name": "Dhannu Tiffin Center"
             },
@@ -162,7 +162,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Hotel Nayaab",
                 "name": "Hotel Nayaab"
             },
@@ -176,7 +176,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Prahalad Tiffin Point",
                 "name": "Prahalad Tiffin Point"
             },
@@ -190,7 +190,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Hotel Shadab",
                 "name": "Hotel Shadab"
             },
@@ -204,7 +204,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Santosh Dhaba",
                 "name": "Santosh Dhaba"
             },
@@ -218,7 +218,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Laxmi Restaurant",
                 "name": "Laxmi Restaurant"
             },
@@ -232,7 +232,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Sree Raghavendra Darshini Pur Veg",
                 "name": "Sree Raghavendra Darshini Pur Veg"
             },
@@ -246,7 +246,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "New Grand Hotel & Restaurant",
                 "name": "New Grand Hotel & Restaurant"
             },
@@ -260,7 +260,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Kasturi Restaurant",
                 "name": "Kasturi Restaurant"
             },
@@ -274,7 +274,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Restaurants",
                 "description": "Saini Fast food Restaurant",
                 "name": "Saini Fast food Restaurant"
             },

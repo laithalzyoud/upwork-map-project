@@ -8,7 +8,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys", 
                 "description": "Ashuu Toys & Novelties",
                 "name": "Ashuu Toys & Novelties"
             },
@@ -22,7 +22,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Mahaveer Enterprises",
                 "name": "Mahaveer Enterprises"
             },
@@ -36,7 +36,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Balaji Toys And Agencies",
                 "name": "Balaji Toys And Agencies"
             },
@@ -50,7 +50,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Bharat Fancy Store",
                 "name": "Bharat Fancy Store"
             },
@@ -64,7 +64,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "SK Marketing",
                 "name": "SK Marketing"
             },
@@ -78,7 +78,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "P. Rameshwar Toys",
                 "name": "P. Rameshwar Toys"
             },
@@ -92,7 +92,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Bombay Agencies",
                 "name": "Bombay Agencies"
             },
@@ -106,7 +106,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rajput Toys",
                 "name": "Rajput Toys"
             },
@@ -120,7 +120,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "N. M Toys House",
                 "name": "N. M Toys House"
             },
@@ -134,7 +134,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Jaju She and Kids",
                 "name": "Jaju She and Kids"
             },
@@ -148,7 +148,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rohan Enterprises & Baby Produts",
                 "name": "Rohan Enterprises & Baby Produts"
             },
@@ -162,7 +162,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rajput Baby Shop.",
                 "name": "Rajput Baby Shop."
             },
@@ -176,7 +176,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Kuberaa Enterprises",
                 "name": "Kuberaa Enterprises"
             },
@@ -190,7 +190,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Famous Baby Store",
                 "name": "Famous Baby Store"
             },
@@ -204,7 +204,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rakesh Marketing",
                 "name": "Rakesh Marketing"
             },
@@ -218,7 +218,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Baby Charm Wholesalers",
                 "name": "Baby Charm Wholesalers"
             },
@@ -232,7 +232,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Jain Caps MFG & Wholesale",
                 "name": "Jain Caps MFG & Wholesale"
             },
@@ -246,7 +246,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "B For Baby",
                 "name": "B For Baby"
             },
@@ -260,7 +260,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Baby Kids",
                 "name": "Baby Kids"
             },
@@ -274,7 +274,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Vinayaka Kids Wear",
                 "name": "Vinayaka Kids Wear"
             },
@@ -288,7 +288,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Jasraj & Sons",
                 "name": "Jasraj & Sons"
             },
@@ -302,7 +302,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sripal Trading Co",
                 "name": "Sripal Trading Co"
             },
@@ -316,7 +316,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "H.K.G.N Air Toys Wholesalers",
                 "name": "H.K.G.N Air Toys Wholesalers"
             },
@@ -330,7 +330,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "New Hello Baby Wholesalers",
                 "name": "New Hello Baby Wholesalers"
             },
@@ -344,7 +344,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sri Sai Toys",
                 "name": "Sri Sai Toys"
             },
@@ -358,7 +358,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "KMC TOYS & NOVELTIES. Whole sale dealers in toys & fancy items",
                 "name": "KMC TOYS & NOVELTIES. Whole sale dealers in toys & fancy items"
             },
@@ -372,7 +372,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rides And Babies",
                 "name": "Rides And Babies"
             },
@@ -386,7 +386,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Prabhu Toys & Sports",
                 "name": "Prabhu Toys & Sports"
             },
@@ -400,7 +400,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Prabhu toys",
                 "name": "Prabhu toys"
             },
@@ -414,7 +414,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Suresh Enterprises",
                 "name": "Suresh Enterprises"
             },
@@ -428,7 +428,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sree Rajendra Toys (Bheru Jain)",
                 "name": "Sree Rajendra Toys (Bheru Jain)"
             },
@@ -442,7 +442,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "NEW S.S TRADER",
                 "name": "NEW S.S TRADER"
             },
@@ -456,7 +456,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Raj Ratan Trading Co.",
                 "name": "Raj Ratan Trading Co."
             },
@@ -470,7 +470,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sri Calcutta Toys",
                 "name": "Sri Calcutta Toys"
             },
@@ -484,7 +484,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Runicha Toys",
                 "name": "Runicha Toys"
             },
@@ -498,7 +498,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "A.R Collection Wholesalers",
                 "name": "A.R Collection Wholesalers"
             },
@@ -512,7 +512,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Prerna Novelties",
                 "name": "Prerna Novelties"
             },
@@ -526,7 +526,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sri Ambica Trading Co.",
                 "name": "Sri Ambica Trading Co."
             },
@@ -540,7 +540,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Priyanka Toys Wholesale & Retail",
                 "name": "Priyanka Toys Wholesale & Retail"
             },
@@ -554,7 +554,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Kwality Traders",
                 "name": "Kwality Traders"
             },
@@ -568,7 +568,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "M Toys",
                 "name": "M Toys"
             },
@@ -582,7 +582,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "R.K. Novelty",
                 "name": "R.K. Novelty"
             },
@@ -596,7 +596,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "P J Novelty",
                 "name": "P J Novelty"
             },
@@ -610,7 +610,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "P. S. Novelty",
                 "name": "P. S. Novelty"
             },
@@ -624,7 +624,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Pawan Toy's",
                 "name": "Pawan Toy's"
             },
@@ -638,7 +638,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Praveen Marketing Wholesalers",
                 "name": "Praveen Marketing Wholesalers"
             },
@@ -652,7 +652,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rajguru Toys",
                 "name": "Rajguru Toys"
             },
@@ -666,7 +666,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Vardhaman Agency",
                 "name": "Vardhaman Agency"
             },
@@ -680,7 +680,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Aruna Sales Corporation",
                 "name": "Aruna Sales Corporation"
             },
@@ -694,7 +694,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Prakash Toys",
                 "name": "Prakash Toys"
             },
@@ -708,7 +708,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Paxal Toys Wholesale & Retail",
                 "name": "Paxal Toys Wholesale & Retail"
             },
@@ -722,7 +722,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Padam Plastic House & General Items",
                 "name": "Padam Plastic House & General Items"
             },
@@ -736,7 +736,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "MARUTHI TOYS",
                 "name": "MARUTHI TOYS"
             },
@@ -750,7 +750,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Puppy Toys",
                 "name": "Puppy Toys"
             },
@@ -764,7 +764,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Prem Deep Novelties",
                 "name": "Prem Deep Novelties"
             },
@@ -778,7 +778,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Yatindr Trading Co & General Goods",
                 "name": "Yatindr Trading Co & General Goods"
             },
@@ -792,7 +792,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "S R Plastic",
                 "name": "S R Plastic"
             },
@@ -806,7 +806,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Amit Traders",
                 "name": "Amit Traders"
             },
@@ -820,7 +820,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Deepak Toys",
                 "name": "Deepak Toys"
             },
@@ -834,7 +834,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Vijay Novelty",
                 "name": "Vijay Novelty"
             },
@@ -848,7 +848,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Ramdev Gifts And Novelties",
                 "name": "Ramdev Gifts And Novelties"
             },
@@ -862,7 +862,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "K.M.C Toys & Novelties",
                 "name": "K.M.C Toys & Novelties"
             },
@@ -876,7 +876,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Pradeep Toys",
                 "name": "Pradeep Toys"
             },
@@ -890,7 +890,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Toy World",
                 "name": "Toy World"
             },
@@ -904,7 +904,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Tirumala Toys",
                 "name": "Tirumala Toys"
             },
@@ -918,7 +918,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Mohit Toys Villa",
                 "name": "Mohit Toys Villa"
             },
@@ -932,7 +932,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Khader Soft Toys",
                 "name": "Khader Soft Toys"
             },
@@ -946,7 +946,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Parvati Toys Centre",
                 "name": "Parvati Toys Centre"
             },
@@ -960,7 +960,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Shree toys",
                 "name": "Shree toys"
             },
@@ -974,7 +974,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sri Venkateshwara Sports & Toys",
                 "name": "Sri Venkateshwara Sports & Toys"
             },
@@ -988,7 +988,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Raj Laxmi Sports And Toys",
                 "name": "Raj Laxmi Sports And Toys"
             },
@@ -1002,7 +1002,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Ramdev Sports",
                 "name": "Ramdev Sports"
             },
@@ -1016,7 +1016,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Oswal Sports",
                 "name": "Oswal Sports"
             },
@@ -1030,7 +1030,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Ganesh Sports",
                 "name": "Ganesh Sports"
             },
@@ -1044,7 +1044,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Kushal Sports Shop",
                 "name": "Kushal Sports Shop"
             },
@@ -1058,7 +1058,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Rocky Sports",
                 "name": "Rocky Sports"
             },
@@ -1072,7 +1072,7 @@
                 ],
                 "type": "Point"
             },
-            "properties": {
+            "properties": {"category": "Toys",
                 "description": "Sri Padmavati Agencies",
                 "name": "Sri Padmavati Agencies"
             },

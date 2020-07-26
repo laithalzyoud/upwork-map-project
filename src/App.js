@@ -23,11 +23,17 @@ const circleLayout = { visibility: 'visible' };
 const circlePaint = {
     'circle-color': [
         'match',
-        ['get', 'colorProp'],
-        'c1', '#FFFFFF', //White
-        'c2', '#FFFF66', //Yellow
-        'c3', '#FF0000', //Red
-        'c4', '#00FF00', //Green
+        ['get', 'category'],
+        'bars', '#FFFFFF', //White
+        'beauty', '#FFFF66', //Yellow
+        'godStores', '#FF0000', //Red
+        'gods', '#00FF00', //Green
+        'grocery', '#00FFFF', //Green
+        'utensils', '#0C0CE6', //Green
+        'PlasticGoods', '#6e6967', //Green
+        'Restaurants', '#a82798', //Green
+        'Toys', '#ff8200', //Green
+
         /* other */ '#ffa500' //Orange
     ],
     'circle-stroke-color': 'black',
@@ -68,8 +74,8 @@ class App extends React.Component {
         zoom: [18],
         circle: undefined,
         bounds:[
-          [78.461681, 17.370974], // Southwest coordinates
-          [78.478309, 17.381066] // Northeast coordinates
+          [78.4640121459961, 17.370545115450106], // Southwest coordinates
+          [78.47946166992188, 17.38414271445477] // Northeast coordinates
           ]
       };
       this.mapRef = React.createRef();
@@ -98,7 +104,7 @@ class App extends React.Component {
         onMouseEnter={this.onToggleHover.bind(this, 'pointer',feature)}
         onMouseLeave={this.onToggleHover.bind(this, '',undefined)}
         coordinates={feature.geometry.coordinates}
-        properties={{"colorProp":"c"+key}}
+        properties={feature.properties}
       />
       )}    
       </Layer>
