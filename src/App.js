@@ -14,7 +14,7 @@ import ReactMapboxGl, {
 import PointGroups from './points/points';
 
 const Map = ReactMapboxGl({
-  minZoom: 10,
+  minZoom: 17,
   maxZoom: 19,
   attributionControl: false,
 });
@@ -47,8 +47,8 @@ const mapStyle = {
   "id": "simple-tiles",
   "type": "raster",
   "source": "raster-tiles",
-  "minzoom": 0,
-  "maxzoom": 22
+  "minzoom": 17,
+  "maxzoom": 19
   }]
 }
 
