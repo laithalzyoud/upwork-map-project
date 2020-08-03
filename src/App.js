@@ -70,9 +70,10 @@ class App extends React.Component {
   constructor(props) {
       super(props);
       this.state = {
-        center: [78.4727594999999, 17.386106],
+        center: [78.471951, 17.375770],
         zoom: [18],
         circle: undefined,
+        circleText: "",
         bounds:[
           [78.4640121459961, 17.370545115450106], // Southwest coordinates
           [78.47946166992188, 17.38414271445477] // Northeast coordinates
@@ -84,9 +85,21 @@ class App extends React.Component {
 
   onToggleHover(cursor,circle) {
     this.mapRef.getCanvas().style.cursor = cursor;
+    if(circle)
+      this.fetchGeocoding(circle.geometry.coordinates[0],circle.geometry.coordinates[1])
+    else
+      this.setState({circleText:""})
     this.setState({circle})
   }
 
+  fetchGeocoding(lng,lat) {
+    fetch("https://maps.googleapis.com/maps/api/geocode/json?latlng="+lat+","+lng+"&location_type=ROOFTOP&key=AIzaSyB65tXEZQaBs23p1LToMJPX6z0C0xjJHiI")
+    .then(response => response.json()).then(data => 
+      {
+        if(data.results) 
+          this.setState({circleText: data.results[0].formatted_address})
+      })
+  }
   mapLoaded(el) {
     this.mapRef = el;
   }
@@ -134,7 +147,7 @@ class App extends React.Component {
             <StyledPopup>
               <div>{circle.properties.name}</div>
               <div>
-                {circle.properties.description}
+                {this.state.circleText}
               </div>
             </StyledPopup>
           </Popup>
