@@ -17,6 +17,7 @@ const Map = ReactMapboxGl({
   minZoom: 17,
   maxZoom: 19,
   attributionControl: false,
+  accessToken:'pk.eyJ1IjoiYXRsYXNtYXBnZW4iLCJhIjoiY2swbmxlN2M4MDB5ejNibWxjMXVvdGNvYSJ9.UsZbpfrkOq-cccfmnIzwPg'
 });
 
 const circleLayout = { visibility: 'visible' };
@@ -24,39 +25,21 @@ const circlePaint = {
     'circle-color': [
         'match',
         ['get', 'category'],
-        'bars', '#FFFFFF', //White
-        'beauty', '#FFFF66', //Yellow
-        'godStores', '#FF0000', //Red
-        'gods', '#00FF00', //Green
-        'grocery', '#00FFFF', //Green
-        'utensils', '#0C0CE6', //Green
-        'PlasticGoods', '#6e6967', //Green
-        'Restaurants', '#a82798', //Green
-        'Toys', '#ff8200', //Green
+        'bars', '#f7e1bf', //White
+        'beauty', '#7b2809', //Yellow
+        'godStores', '#242919', //Red
+        'gods', '#042986', //Green
+        'grocery', '#b9b464', //Green
+        'utensils', '#1c5d7d', //Green
+        'PlasticGoods', '#4c8fc2', //Green
+        'Restaurants', '#d9d508', //Green
+        'Toys', '#95a5b2', //Green
 
         /* other */ '#ffa500' //Orange
     ],
-    'circle-stroke-color': 'black',
-    'circle-stroke-width': 2,
+    // 'circle-stroke-color': 'black',
+    // 'circle-stroke-width': 2,
 };
-
-const mapStyle = {
-  "version": 8,
-  "sources": {
-  "raster-tiles": {
-  "type": "raster",
-  "tiles": ["https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"],
-  "tileSize": 256
-  }
-  },
-  "layers": [{
-  "id": "simple-tiles",
-  "type": "raster",
-  "source": "raster-tiles",
-  "minzoom": 0,
-  "maxzoom": 22
-  }]
-}
 
 const StyledPopup = styled.div`
 background: white;
@@ -100,10 +83,71 @@ class App extends React.Component {
           this.setState({circleText: data.results[0].formatted_address})
       })
   }
-  mapLoaded(el) {
-    this.mapRef = el;
+
+    mapLoaded(el) {
+        this.mapRef = el;
+        this.addImageSources();
+        this.addVideoSources();
+    }
+
+    addImageSources() {
+
+      let imageCoordinates = 
+          [
+            [
+              78.46813201904297,
+              17.376248448229056
+            ],
+            [
+              78.46877574920654,
+              17.376248448229056
+            ],
+            [
+              78.46877574920654,
+              17.37688839818374
+            ],
+            [
+              78.46813201904297,
+              17.37688839818374
+            ]
+          ]
+      this.mapRef.addSource('imstreamImage', {
+          type: 'image',
+          url: "https://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg",
+          coordinates: imageCoordinates
+      });
   }
 
+  addVideoSources() {
+
+    let videoCoordinates = 
+      [
+        [
+          78.4695053100586,
+          17.37770241129391
+        ],
+        [
+          78.47014367580414,
+          17.37770241129391
+        ],
+        [
+          78.47014367580414,
+          17.3782297260311
+        ],
+        [
+          78.4695053100586,
+          17.3782297260311
+        ]
+      ]
+    this.mapRef.addSource('imstreamVideo', {
+      'type': 'video',
+      'urls': [
+          'https://static-assets.mapbox.com/mapbox-gl-js/drone.mp4',
+          'https://static-assets.mapbox.com/mapbox-gl-js/drone.webm'
+        ],
+        coordinates: videoCoordinates
+    });
+}
 
   render() {
 
@@ -126,7 +170,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Map
-          style={mapStyle}
+          style="mapbox://styles/atlasmapgen/ckduj8k7u182l19nwt71r2cya"
           containerStyle={{
               height: '100vh',
               width: '100vw',
@@ -152,6 +196,16 @@ class App extends React.Component {
             </StyledPopup>
           </Popup>
         )}
+
+        <Layer
+          type={'raster'}
+          sourceId={'imstreamImage'}
+        />
+
+        <Layer
+          type={'raster'}
+          sourceId={'imstreamVideo'}
+        />
         </Map>
       </div>
     );  
